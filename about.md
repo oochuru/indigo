@@ -4,7 +4,7 @@ layout: page
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oochuru/indigo/gh-pages/assets/images/Ckcoding.jpeg" alt="Ochuru coding in sneaker shop" width="300" style="border-radius: 8px;" />
+  <img src="https://github.com/oochuru/indigo/gh-pages/assets/images/Ckcoding.jpeg" alt="Ochuru coding in sneaker shop" width="300" style="border-radius: 8px;" />
 </p>
 
 <p>Hey, I’m Ochuru Ochuru a future software developer from Sacramento, CA, currently working toward my Computer Science degree. I’m passionate about building tools that actually help people, whether it’s a motivation app that sends you uplifting quotes before work, or clean backend systems that just get the job done.
@@ -31,6 +31,5 @@ Right now, I’m focused on improving my skills in web development, Python, and 
 
 <ul>
 	<li><a href="https://oochuru.github.io/Motivationapp/">Motivational Web App</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	
 </ul>
