@@ -8,7 +8,7 @@ description: A blog about my life and tech related tings
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/Ckcoding.jpeg
+picture: assets/images/collegedormxo.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -46,7 +46,7 @@ authors:
     name: Ochuru Ochuru
     bio: Young Man trying to make it
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/collegedormxo.jpg
     #twitter: johndoe
  # jamesfoster:
   #  name: James Foster
