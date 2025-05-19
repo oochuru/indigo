@@ -27,7 +27,7 @@ Right now, I’m focused on improving my skills in web development, Python, and 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="[https://github.com/](https://oochuru.github.io/Motivationapp/)">Motivational Web App</a></li>
+	<li><a href="https://oochuru.github.io/Motivationapp/">Motivational Web App</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
