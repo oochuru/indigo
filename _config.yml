@@ -18,7 +18,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://docs.google.com/document/d/1MD4CrOQLfLlyYLidofi44DDbMxpjNKKFyvnA_88qF8w/edit?usp=sharing
 
 url: https://oochuru.github.io/indigo
 # your url: https://USERNAME.github.io
